@@ -1,0 +1,13 @@
+{
+  "rest": {
+    "address": "http://ip.taobao.com/service/",
+    "readTimeout": 30,
+    "connectTimeout": 5,
+    "retry": true
+  },
+  "serialize": {
+    "propertyNamingStrategy": "SNAKE_CASE",
+    "serializationFeature": "",
+    "deserializationFeature": ""
+  }
+}

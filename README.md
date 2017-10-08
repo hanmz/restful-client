@@ -13,4 +13,4 @@
     // 异步
     CompletableFuture<IpInfo> futureInfo = api.findFuture("63.223.108.42");
 
-详情参见test
+详情参见IpInfoApiTest
